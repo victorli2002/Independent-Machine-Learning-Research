@@ -16,6 +16,6 @@ Yelp Review Classification/Sentiment Analysis
 Incomplete/In-Progress Projects (no final results yet):
 N/A
 
-Futue Projects (N/A):
+Futue Projects: N/A
 
 Advisor: Dmitrii Pedchenko
