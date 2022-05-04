@@ -1,7 +1,7 @@
 # Independent-Machine-Learning-Research
 This is where I put my personal Machine Learning projects.
 I use jupyter notebook.
-It's focused on studying neural networks and how they compare to classical machine learning methods.
+It is focused on studying and exploring neural networks, how they compare to classical machine learning methods, and how we can modify them for different purposes.
 
 Fully Completed/Polished Projects:
 N/A
