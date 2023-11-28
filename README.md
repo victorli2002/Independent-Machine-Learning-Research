@@ -1,4 +1,7 @@
-# Independent-Machine-Learning-Research
+# Introductory Independent-Machine-Learning-Research
+
+Last Edits: May 2022
+
 This is where I put my personal Machine Learning projects.
 I use jupyter notebook.
 It is focused on studying and exploring neural networks, how they compare to classical machine learning methods, and how we can modify them for different purposes.
